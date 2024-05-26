@@ -1,0 +1,7 @@
+gradio
+databricks-sdk
+pandas
+fastapi
+langchain
+numpy
+mlflow
